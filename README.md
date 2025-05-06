@@ -31,4 +31,4 @@ Una aplicación de escritorio **offline**, moderna y minimalista para convertir 
 
 ---
 ## INSTALACIÓN ##
-Simplemente busca el archivo .exe dentro de la carpeta /dist, descárgalo y ejecútalo!
+Simplemente descarga el archivo StudioPlanet-Audio-Converter.exe y ejecútalo en tu Windows.
