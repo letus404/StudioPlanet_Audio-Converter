@@ -1,0 +1,22 @@
+# Ignorar la carpeta bin
+bin/
+
+# Ignorar entornos virtuales comunes
+venv/
+env/
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar carpetas ocultas de PyInstaller
+*.spec
+dist/
+build/
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
